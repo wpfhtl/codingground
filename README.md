@@ -1,2 +1,2 @@
 # codingground
-Main Repository for Coding Ground
+test negative number index in array of C++
